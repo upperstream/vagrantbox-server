@@ -1,0 +1,16 @@
+Root = false
+
+[**.{bat,cmd}]
+end_of_line = crlf
+
+[**.jar]
+end_of_line =
+insert_final_newline =
+trim_trailing_whitespace =
+charset =
+indent_style =
+indent_size =
+
+[**.properties]
+charset = latin1
+
