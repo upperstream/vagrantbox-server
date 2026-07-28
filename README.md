@@ -15,4 +15,4 @@ See [LICENSE.txt](LICENSE.txt) file for details.
 
 - - -
 
-Copyright &copy; 2020 Uppserstream Software.
+Copyright &copy; 2020, 2026 Uppserstream.
